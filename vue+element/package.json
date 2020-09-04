@@ -15,7 +15,7 @@
     "js-cookie": "^2.2.0",
     "loader": "^2.1.1",
     "node-css": "^0.1.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "qs": "^6.5.2",
     "sass-loader": "^7.0.2",
     "scss-loader": "0.0.1",
